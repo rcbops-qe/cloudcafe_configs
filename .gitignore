@@ -1,0 +1,11 @@
+.venv/bin/**
+.venv/lib/**
+.venv/local/**
+.venv/share/**
+.venv/include/**
+.venv/.opencafe/logs
+.venv/.opencafe/plugin_cache/**
+.venv/.opencafe/temp/**
+.venv/.opencafe/data/**
+
+*.img
